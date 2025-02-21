@@ -20,8 +20,7 @@ To add your organisation follow these steps:
 
    | Organization/Company Name | Website                  | Usage Scenario                            | CaseStudy                            |
    | --------------------------- | -------------------------- | ------------------------------------------- | -------------------------------------- |
-   | Coozila!                    | https://www.coozila.com    | Use Karmada to for multi-cloud platform  | Developmernt stage |
-
+   | My Company                | https://mycompanywebsite | Use Karmada to build multi-cloud platform | (optional) Production practice cases |
 5. Save the file, then do `git add -A` and commit using `git commit -s -m "Add MY-ORG to adopters"`.
 6. Push the commit with `git push origin main`.
 7. Open a Pull Request to [karmada-io/website](https://github.com/karmada-io/website) and a preview build will turn up.
